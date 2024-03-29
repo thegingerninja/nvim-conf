@@ -8,6 +8,7 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
 
   use 'ellisonleao/gruvbox.nvim'
+  use 'akai54/2077.nvim'
   use 'nvim-tree/nvim-web-devicons'
   use 'nvim-tree/nvim-tree.lua'
   use 'nvim-lualine/lualine.nvim'
